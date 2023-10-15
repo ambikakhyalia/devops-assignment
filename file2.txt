@@ -1,1 +1,5 @@
 hello world file2
+welcome to devops file2
+
+some text was
+added to file2

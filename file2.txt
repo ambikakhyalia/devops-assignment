@@ -1,2 +1,6 @@
 hello world file2
 welcome to devops file2
+
+
+some text added 
+to file2
